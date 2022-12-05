@@ -8,7 +8,8 @@ public class TEST {
         System.out.println("second");
     }
     public static void func(B a,B b){
-        System.out.println("third");
+    
+sdfsdf    System.out.println("third");
     }
     public static void main(String[] args) {
         func(new A(),new C());
